@@ -8,6 +8,7 @@ authors = ["winglechen <winglechen@gmail.com>"]
 python = "^3.10"
 pywolf = "^0.1.0"
 pytest = "^7.2.2"
+Scrapy = "^2.8.0"
 
 [tool.poetry.dev-dependencies]
 
