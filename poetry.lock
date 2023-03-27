@@ -961,14 +961,14 @@ testing = ["coverage (>=6.2)", "flaky (>=3.5.0)", "hypothesis (>=5.7.1)", "mypy 
 
 [[package]]
 name = "pywolf"
-version = "0.3.0"
+version = "0.3.1"
 description = "python utils"
 category = "main"
 optional = false
 python-versions = ">=3.10,<4.0"
 files = [
-    {file = "pywolf-0.3.0-py3-none-any.whl", hash = "sha256:604d5b1811908f3a4434c7a177fc51fcbe6e89e2405050166b8dc432604bab0d"},
-    {file = "pywolf-0.3.0.tar.gz", hash = "sha256:81a69745eaeaa58f8678325eb2c8e7bb00e45ad3b6fa51e59c5a40538c3ed8a9"},
+    {file = "pywolf-0.3.1-py3-none-any.whl", hash = "sha256:4127f838ddd9100d52d11149029050232272aa09172e670367661b1b72613840"},
+    {file = "pywolf-0.3.1.tar.gz", hash = "sha256:7ffc5b9193a4764470e16df5d69965e34deba15bd13e25f9774036633a8f0db5"},
 ]
 
 [package.dependencies]
@@ -1467,4 +1467,4 @@ testing = ["coverage (>=5.0.3)", "zope.event", "zope.testing"]
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.10"
-content-hash = "66ec984f3650ee966d051c4547559e37a456f32fc5cc3703a95f94d9e0cda5df"
+content-hash = "7d6215225cac21bfe1274bef721a989a52fc85ffc06d0d65bc1490175ab805e4"
