@@ -9,8 +9,6 @@ book = {
     'created_at': '',
     'introduction': '',
     'category': '',
-
-
 }
 
 rate = {
@@ -24,8 +22,53 @@ rate = {
 
 }
 
-
 author = {
 
 }
+
+excerpt = {
+
+}
+
+comment = {
+
+}
+
+review = {
+
+}
+
+selector = {
+    "book": {
+        "model": book,
+        "selector": "root"
+    },
+    "rate": {
+        "model": rate,
+        "selector": "",
+        "regex": "",
+    },
+    "authors": {
+        "model": author,
+        "selector": ""
+    },
+    "excerpts": {
+
+    },
+    "related_books": {
+        "model": book,
+        "selector": "",
+        "selector_type": "selector|selectors",
+    },
+    "comments": {
+
+    },
+    "reviews": {
+
+    }
+
+}
+
+
+
 
