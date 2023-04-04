@@ -38,7 +38,7 @@ review = {
 
 }
 
-selector = {
+selectors = {
     "book": {
         "model": book,
         "selector": "root"
