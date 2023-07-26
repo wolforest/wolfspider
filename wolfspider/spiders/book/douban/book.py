@@ -5,7 +5,6 @@ book = {
     'main_pic': '',
     'pages': 0,
     'ISBN': '',
-    'authors': [],
     'created_at': '',
     'introduction': '',
     'category': '',
@@ -58,7 +57,7 @@ selectors = {
     "related_books": {
         "model": book,
         "selector": "",
-        "selector_type": "selector|selectors",
+        "selector_type": "list",
     },
     "comments": {
 

@@ -1,6 +1,6 @@
 import scrapy
 
-from pywolf.lang import fileutils
+from pywolf.utils import fileutils
 
 
 class DangDangSpider(scrapy.Spider):
