@@ -9,7 +9,7 @@ python = "^3.10"
 pytest = "^7.2.2"
 Scrapy = "^2.8.0"
 beautifulsoup4 = "^4.11.2"
-pywolf = "^0.3.0"
+pywolf = "^0.3.3"
 
 [tool.poetry.dev-dependencies]
 
